@@ -2,6 +2,8 @@
 
 Coding puzzles for [Advent of Code 2021](https://adventofcode.com).
 
+This is throwaway code for solving these riddles quickly. This is not _good_ (performant, DRY, etc) code! Don't judge please!
+
 ## Install dependencies
 
 `pipenv install`
