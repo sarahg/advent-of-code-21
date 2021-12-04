@@ -10,4 +10,6 @@ This is throwaway code for solving these riddles quickly. This is not _good_ (pe
 
 ## Run a script like this
 
-`pipenv run python days/01.py`
+Pass the input file as an argument:
+
+`pipenv run python days/01.py input/01.txt`
